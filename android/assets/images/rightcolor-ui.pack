@@ -1,0 +1,89 @@
+
+rightcolor-ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+message-window-small
+  rotate: false
+  xy: 1, 217
+  size: 397, 276
+  orig: 397, 276
+  offset: 0, 0
+  index: -1
+slucis-logo
+  rotate: false
+  xy: 400, 193
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+button-style-01
+  rotate: false
+  xy: 1, 47
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button-style-02
+  rotate: false
+  xy: 702, 391
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+image-play
+  rotate: false
+  xy: 171, 135
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+white-rectangle
+  rotate: false
+  xy: 702, 325
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+image-arrow
+  rotate: false
+  xy: 1, 1
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+image-rate
+  rotate: false
+  xy: 806, 437
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+image-sound
+  rotate: false
+  xy: 171, 73
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+image-more-games
+  rotate: false
+  xy: 253, 180
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+image-achievement
+  rotate: false
+  xy: 702, 280
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+image-resume
+  rotate: false
+  xy: 77, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

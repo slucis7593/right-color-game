@@ -1,0 +1,6 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	style_01: { up: button-style-01, down: button-style-01 },
+	style_02: { up: button-style-02, down: button-style-02 }
+}
+}
